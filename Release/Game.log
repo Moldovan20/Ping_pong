@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Le répertoire intermédiaire (Release\) contient des fichiers partagés provenant d'un autre projet (Game.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Game.cpp
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(37,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(37,22): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(75,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(75,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(76,56): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(76,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(78,45): warning C4244: '+=' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(79,45): warning C4244: '+=' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(115,45): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Game\Game\Game.cpp(115,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  1 of 106 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Game.vcxproj -> C:\Users\Moldovan\source\repos\Game\Release\Ping pong.exe
